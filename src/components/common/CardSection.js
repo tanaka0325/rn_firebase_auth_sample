@@ -1,7 +1,6 @@
 import React from 'react';
 import {
-  View,
-  Text
+  View
 } from 'react-native';
 
 const CardSection = (props) => {
